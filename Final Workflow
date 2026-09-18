@@ -1,0 +1,14 @@
+🔁 Final Workflow
+Developer
+    ↓
+GitHub
+    ↓
+Jenkins
+    ↓
+Maven Build
+    ↓
+WAR Artifact
+    ↓
+Tomcat
+    ↓
+Web Application
