@@ -1,12 +1,11 @@
 🎯 What I Learned
-
 Through this project, I learned:
-
-Jenkins Freestyle Jobs
-Continuous Integration concepts
-Git integration with Jenkins
-Maven build automation
-WAR artifact generation
-Apache Tomcat setup
-Jenkins-Tomcat integration
-Automated application deployment
+1.Jenkins Freestyle Jobs
+2.Continuous Integration concepts
+3.Git integration with Jenkins
+4.Maven build automation
+5.WAR artifact generation
+6.Apache Tomcat setup
+7.Jenkins-Tomcat integration
+8.Automated application deployment
+This project gave me hands-on experience with automating the build and deployment process using Jenkins and Tomcat.
